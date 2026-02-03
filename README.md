@@ -25,9 +25,9 @@ Interactive Tableau dashboard designed to analyze **multi-year sales performance
 ## Dashboard Preview
 
 ### Sales Dashboard
-![Sales Dashboard] <img width="1199" height="793" alt="Screenshot 2026-02-03 151045" src="https://github.com/user-attachments/assets/154a7225-89b0-45e2-a735-660dce972a13" />
+[Sales Dashboard] <img width="1199" height="793" alt="Screenshot 2026-02-03 151045" src="https://github.com/user-attachments/assets/154a7225-89b0-45e2-a735-660dce972a13" />
 
 
 ### Customer Dashboard
-![Customer Dashboard]<img width="1201" height="788" alt="Screenshot 2026-02-03 151022" src="https://github.com/user-attachments/assets/4d4fa9d8-77f9-4e54-a3b6-0435e203e752" />
+[Customer Dashboard]<img width="1201" height="788" alt="Screenshot 2026-02-03 151022" src="https://github.com/user-attachments/assets/4d4fa9d8-77f9-4e54-a3b6-0435e203e752" />
 
